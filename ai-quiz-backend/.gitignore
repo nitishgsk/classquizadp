@@ -1,0 +1,21 @@
+# Dependencies
+/node_modules
+
+# Environment variables
+.env
+
+# Uploads
+/uploads
+
+google-credentials.json
+
+node_modules/
+.env
+__pycache__/
+*.pyc
+venv/
+env/
+dist/
+build/
+.DS_Store
+*.log
